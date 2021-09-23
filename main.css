@@ -1,0 +1,28 @@
+ul{
+	list-style: none;
+}
+
+li{
+	display: inline;
+	margin: 150px;
+	text-decoration: none;
+}
+
+li a{
+	color: white;
+}
+
+li a hover{
+	color: darkblue;
+}
+
+header{
+	background-color: black;
+	padding: 10px;
+}
+footer{
+	background-color: black;
+	padding: 15px;
+	color: white;
+	text-align: center;
+}
